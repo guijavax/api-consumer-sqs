@@ -1,0 +1,7 @@
+aws:
+  region: us-east-1
+  sqs:
+    queue:
+      product:
+        events:
+          name: cliente
